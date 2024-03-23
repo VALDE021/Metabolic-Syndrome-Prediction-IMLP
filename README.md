@@ -4,7 +4,11 @@ Authored by: Eric N. Valdez
 ## Assignment:
 My task here was to predict metabolic syndrome based on common risk factors. I used the dataset [Metabolic Syndrome Prediction - dataset by informatics-edu](https://data.world/informatics-edu/metabolic-syndrome-prediction), which came from the data.world.
 
-Describe the business case/task
+## Permutation Importance
+
+Started looking at the Plotting the Permutation Importance
+
+![]('Image/Permutation Importance.png')
 
 Describe the feature engineering approaches you applied/tried
 
