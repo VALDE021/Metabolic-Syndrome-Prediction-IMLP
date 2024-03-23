@@ -123,7 +123,9 @@ weighted avg       0.84      0.84      0.84       601
 
 ## Out of Models this was the result
 <u>Precision	Recall	F1 Score	Accuracy</u>
+
 ***Model Name***				
+
 Class Model-1 Train	0.861831	0.807443	0.833751	0.889444
 **Class Model-1 Test	0.803279	0.720588	0.759690	0.845258**
 
