@@ -1,4 +1,15 @@
-# Metabolic Syndrome Prediction IMLP
+# Metabolic Syndrome Prediction with IMLP
+Welcome to the Metabolic Syndrome Prediction with IMLP project! This repository hosts a solution that predicts the risk of metabolic syndrome using the Interpretable Machine Learning Pipeline (IMLP) approach. Whether you're interested in health analytics, machine learning, or preventive healthcare, you're in the right place!
+
+# About
+Metabolic syndrome is a cluster of conditions that occur together, increasing your risk of heart disease, stroke, and type 2 diabetes. This project aims to predict an individual's risk of metabolic syndrome using machine learning techniques, providing insights that can aid in early intervention and preventive measures.
+
+# Features
+Interpretable Predictions: Utilizes the IMLP approach to provide transparent and interpretable predictions, enabling users to understand the factors influencing the risk of metabolic syndrome.
+Data-driven Insights: Leverages data analytics to uncover patterns and relationships within health data, empowering individuals and healthcare professionals with actionable insights.
+Personalized Recommendations: Offers personalized recommendations based on individual risk factors, promoting proactive health management and lifestyle modifications.
+
+# Metabolic Syndrome Prediction Intermediate Machine Learning Project Section
 Authored by: Eric N. Valdez
  
 ## Assignment:
