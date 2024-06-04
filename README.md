@@ -10,7 +10,7 @@ Data-driven Insights: Leverages data analytics to uncover patterns and relations
 Personalized Recommendations: Offers personalized recommendations based on individual risk factors, promoting proactive health management and lifestyle modifications.
 
 # Metabolic Syndrome Prediction Intermediate Machine Learning Project Section
-Authored by: Eric N. Valdez
+Authored by: [Eric N. Valdez](https://www.linkedin.com/in/eric-n-valdez-94a9003/)
  
 ## Assignment:
 My task here was to predict metabolic syndrome based on common risk factors. I used the dataset [Metabolic Syndrome Prediction - dataset by informatics-edu](https://data.world/informatics-edu/metabolic-syndrome-prediction), which came from the data.world.
